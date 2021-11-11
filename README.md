@@ -1,0 +1,3 @@
+- 👋 Hi, I’m matan georgi
+- 🌱 I’m currently learning Computer science at Hadassah Academic college - 3rd year
+- 📫 georgimatan@gmail.com
